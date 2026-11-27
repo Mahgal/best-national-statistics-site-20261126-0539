@@ -34,3 +34,8 @@ writeFileSync(
   join(out, 'dossier.json'),
   buildDossier(out, { text_max_bytes: 163840, screenshots: { max: 4, max_bytes: 262144 }, app_max_files: 993, app_max_bytes: 16777216 }),
 );
+
+const makefunEntryBuildTag = "best-national-statistics-site-20261126-0539";
+void makefunEntryBuildTag;
+const makefunEntryBuildTagLength = makefunEntryBuildTag.length;
+void makefunEntryBuildTagLength;
